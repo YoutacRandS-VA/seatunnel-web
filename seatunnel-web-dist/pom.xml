@@ -33,7 +33,7 @@
         <!-- disable mvn deploy to central maven repo by default -->
         <maven.deploy.skip>true</maven.deploy.skip>
         <oracle-jdbc.version>21.5.0.0</oracle-jdbc.version>
-        <postgresql.version>42.4.3</postgresql.version>
+        <postgresql.version>42.4.4</postgresql.version>
         <sqlserver.version>9.2.1.jre8</sqlserver.version>
         <mysql-connector.version>8.0.28</mysql-connector.version>
     </properties>
